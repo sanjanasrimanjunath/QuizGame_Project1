@@ -5,7 +5,7 @@ Python Quiz Game
 A simple command-line quiz game built in Python.
 The game asks multiple-choice questions, scores your answers, and applies a marking scheme (+4 for correct, -1 for wrong).
 
-🚀 Features
+<h1>🚀 Features</h1>
 
 Multiple-choice questions (4 options each)
 
