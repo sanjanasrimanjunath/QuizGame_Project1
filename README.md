@@ -17,7 +17,7 @@ Guidelines shown before starting
 
 Option to exit before the game begins
 
-📝 Game Rules
+<h1>📝 Game Rules</h1>
 
 Each question has 4 options (A, B, C, D).
 
